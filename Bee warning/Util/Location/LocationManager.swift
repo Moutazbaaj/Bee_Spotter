@@ -70,4 +70,3 @@ class LocationManager: NSObject, ObservableObject, CLLocationManagerDelegate {
         print(error.localizedDescription)  // Print error description
     }
 }
-
