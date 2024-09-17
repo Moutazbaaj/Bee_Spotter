@@ -1,0 +1,9 @@
+disabled_rules:
+  - line_length
+  - multiple_closures_with_trailing_closure
+  - function_parameter_count
+  - function_body_length
+  - for_where
+  - file_length
+  - type_body_length
+  - trailing_whitespace
