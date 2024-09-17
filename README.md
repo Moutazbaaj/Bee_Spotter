@@ -15,15 +15,15 @@ Bee-Spotter’s goal is to raise awareness about bee activity, contribute to cit
 
 ## Design
 <p>
-  <img src="./img/app_design_2.png" width="200">
-  <img src="./img/app_design_1.png" width="200">
-  <img src="./img/app_design_3.png" width="200">
+  <img src="./img/app_img/IMG_1881.png" width="200">
+  <img src="./img/app_img/IMG_1882.png" width="200">
+  <img src="./img/app_img/IMG_1888.PNG" width="200">
 </p>
 
 <p>
-  <img src="./img/app_design_4.png" width="200">
-  <img src="./img/app_design_5.png" width="200">
-  <img src="./img/app_design_6.png" width="200">
+  <img src="./img/app_img/IMG_1894.PNG" width="200">
+  <img src="./img/app_img/IMG_1892.PNG" width="200">
+  <img src="./img/app_img/IMG_1893.PNG" width="200">
 </p>
 
 ## Features
@@ -38,6 +38,17 @@ Bee-Spotter’s goal is to raise awareness about bee activity, contribute to cit
 * **User Profile and Sighting History**: View and manage your profile, including past bee sightings.
 * **language support**: Bee_Spotter support support the following languages: English Arabic as well as German.
 
+<p>
+  <img src="./img/app_img/IMG_1895.PNG" width="200">
+  <img src="./img/app_img/IMG_1896.PNG" width="200">
+  <img src="./img/app_img/IMG_1898.PNG" width="200">
+</p>
+
+<p>
+  <img src="./img/app_img/IMG_1899.PNG" width="200">
+  <img src="./img/app_img/IMG_1900.PNG" width="200">
+  <img src="./img/app_img/IMG_1901.PNG" width="200">
+</p>
 
 ### Additional Features
 * **Home Screen Widgets**: Display facts about bees directly on the home screen.
@@ -63,13 +74,27 @@ Bee-Spotter’s goal is to raise awareness about bee activity, contribute to cit
 * **SOS Profile**: Quick access to emergency contacts or information in case of a bee-related incident.
 * **Report History**: Access a list of all reports you’ve submitted.
 
-## sights
 
+<p>
+  <img src="./img/app_img/IMG_1902.PNG" width="200">
+  <img src="./img/app_img/IMG_1903.PNG" width="200">
+  <img src="./img/app_img/IMG_1908.PNG" width="200">
+</p>
+
+<p>
+  <img src="./img/app_img/IMG_1910.png" width="200">
+  <img src="./img/app_img/IMG_1911.PNG" width="200">
+  <img src="./img/app_img/IMG_1912.PNG" width="200">
+</p>
+
+
+## sights
+<p>
   <img src="./img/sight/sights1.PNG" width="200">
   <img src="./img/sight/sights2.PNG" width="200">
   <img src="./img/sight/sights3.PNG" width="200">
   <img src="./img/sight/sights4.PNG" width="200">
-
+</p>
 
 
 
@@ -86,6 +111,20 @@ Bee-Spotter uses Firebase for storing reports in real-time. Reports are automati
 * **Google Maps API**: Integrated for map display and location-based imagery (StreetView).
 * **Firebase Firestore**: Handles real-time storage, retrieval, and deletion of bee sighting data.
 
+
+<p>
+  <img src="./img/app_img/IMG_1913.PNG" width="200">
+  <img src="./img/app_img/IMG_1914.PNG" width="200">
+  <img src="./img/app_img/IMG_1915.PNG" width="200">
+</p>
+
+<p>
+  <img src="./img/app_img/IMG_1916.PNG" width="200">
+  <img src="./img/app_img/IMG_1917.PNG" width="200">
+  <img src="./img/app_img/IMG_1918.PNG" width="200">
+</p>
+
+
 ### Third-Party Frameworks
 * **Firebase**: For real-time data storage, user authentication, and in-app notifications.
 * **MapKit and Google Maps**: Used for map functionality and location services.
@@ -96,17 +135,45 @@ Bee-Spotter’s roadmap includes:
 * **Advanced Data Analytics**: Improved insights into bee activity trends and distribution.
 * **Research Collaboration**: Partnering with environmental organizations and researchers for scientific studies and data sharing.
 
+
+<p>
+  <img src="./img/app_img/IMG_1919.PNG" width="200">
+  <img src="./img/app_img/IMG_1922.PNG" width="200">
+  <img src="./img/app_img/IMG_1923.PNG" width="200">
+</p>
+
+<p>
+  <img src="./img/app_img/IMG_1947.PNG" width="200">
+  <img src="./img/app_img/IMG_1948.PNG" width="200">
+  <img src="./img/app_img/IMG_1964.png" width="200">
+</p>
+
+
 ## Conclusion
 Bee-Spotter is designed to be a comprehensive tool for tracking bee activity, contributing to citizen science, and providing real-time information for safety and awareness. With its combination of detailed data, easy reporting, and community engagement, the app is a valuable resource for both casual users and dedicated nature enthusiasts.
 
 
 ## sights
-
+<p>
   <img src="./img/sight/sights5.PNG" width="200">
   <img src="./img/sight/sights6.PNG" width="200">
   <img src="./img/sight/sights7.PNG" width="200">
   <img src="./img/sight/sights8.PNG" width="200">
+  </p>
+
+
+
   
+<p>
+  <img src="./img/app_img/IMG_1965.png" width="200">
+  <img src="./img/app_img/IMG_1966.png" width="200">
+  <img src="./img/app_img/IMG_1968.png" width="200">
+</p>
+
+<p>
+  <img src="./img/app_img/IMG_1967.png" width="200">
+  <img src="./img/app_img/IMG_1969.png" width="200">
+</p>
 ---
 
 ## Arabic Version
@@ -130,15 +197,15 @@ Bee-Spotter مثالي لـ:
 
 ## التصميم
 <p>
-  <img src="./img/app_design_2.png" width="200">
-  <img src="./img/app_design_1.png" width="200">
-  <img src="./img/app_design_3.png" width="200">
+  <img src="./img/app_img/IMG_1881.png" width="200">
+  <img src="./img/app_img/IMG_1882.png" width="200">
+  <img src="./img/app_img/IMG_1888.PNG" width="200">
 </p>
 
 <p>
-  <img src="./img/app_design_4.png" width="200">
-  <img src="./img/app_design_5.png" width="200">
-  <img src="./img/app_design_6.png" width="200"
+  <img src="./img/app_img/IMG_1894.PNG" width="200">
+  <img src="./img/app_img/IMG_1892.PNG" width="200">
+  <img src="./img/app_img/IMG_1893.PNG" width="200">
 </p>
 
 ## الميزات
@@ -154,7 +221,17 @@ Bee-Spotter مثالي لـ:
 * **دعم اللغات**: يدعم تطبيق بي-سبوتر اللغات التالية: الإنجليزية، العربية، والألمانية.
 
 
+<p>
+  <img src="./img/app_img/IMG_1895.PNG" width="200">
+  <img src="./img/app_img/IMG_1896.PNG" width="200">
+  <img src="./img/app_img/IMG_1898.PNG" width="200">
+</p>
 
+<p>
+  <img src="./img/app_img/IMG_1899.PNG" width="200">
+  <img src="./img/app_img/IMG_1900.PNG" width="200">
+  <img src="./img/app_img/IMG_1901.PNG" width="200">
+</p>
 
 ### ميزات إضافية
 * **ودجت الشاشة الرئيسية**: عرض معلومات حول النحل مباشرة على الشاشة الرئيسية.
@@ -180,11 +257,25 @@ Bee-Spotter مثالي لـ:
 * **ملف الطوارئ**: وصول سريع لجهات الاتصال الطارئة أو المعلومات في حالة حدوث حادث مرتبط بالنحل.
 * **سجل التقارير**: الوصول إلى قائمة بجميع التقارير التي قمت بتقديمها.
 
+<p>
+  <img src="./img/app_img/IMG_1902.PNG" width="200">
+  <img src="./img/app_img/IMG_1903.PNG" width="200">
+  <img src="./img/app_img/IMG_1908.PNG" width="200">
+</p>
+
+<p>
+  <img src="./img/app_img/IMG_1910.png" width="200">
+  <img src="./img/app_img/IMG_1911.PNG" width="200">
+  <img src="./img/app_img/IMG_1912.PNG" width="200">
+</p>
+
+
+<p>
   <img src="./img/sight/sights1.PNG" width="200">
   <img src="./img/sight/sights2.PNG" width="200">
   <img src="./img/sight/sights3.PNG" width="200">
   <img src="./img/sight/sights4.PNG" width="200">
-
+</p>
 ## الهيكل التقني
 
 ### هيكل المشروع
@@ -198,6 +289,18 @@ Bee-Spotter مبني باستخدام نمط تصميم MVVM (Model-View-ViewMod
 * **Google Maps API**: مدمجة لعرض الخرائط والصور المستندة إلى الموقع (StreetView).
 * **Firebase Firestore**: يدير تخزين البيانات واسترجاعها وحذفها في الوقت الفعلي لتقارير مشاهدات النحل.
 
+
+<p>
+  <img src="./img/app_img/IMG_1913.PNG" width="200">
+  <img src="./img/app_img/IMG_1914.PNG" width="200">
+  <img src="./img/app_img/IMG_1915.PNG" width="200">
+</p>
+
+<p>
+  <img src="./img/app_img/IMG_1916.PNG" width="200">
+  <img src="./img/app_img/IMG_1917.PNG" width="200">
+  <img src="./img/app_img/IMG_1918.PNG" width="200">
+</p>
 ### أطر العمل الخارجية
 * **Firebase**: للتخزين الفوري للبيانات، المصادقة، والإشعارات داخل التطبيق.
 * **MapKit وGoogle Maps**: تُستخدم لوظائف الخرائط وخدمات الموقع.
@@ -210,11 +313,25 @@ Bee-Spotter مبني باستخدام نمط تصميم MVVM (Model-View-ViewMod
 
 
 
+
+<p>
+  <img src="./img/app_img/IMG_1919.PNG" width="200">
+  <img src="./img/app_img/IMG_1922.PNG" width="200">
+  <img src="./img/app_img/IMG_1923.PNG" width="200">
+</p>
+
+<p>
+  <img src="./img/app_img/IMG_1947.PNG" width="200">
+  <img src="./img/app_img/IMG_1948.PNG" width="200">
+  <img src="./img/app_img/IMG_1964.png" width="200">
+</p>
+
+<p>
   <img src="./img/sight/sights5.PNG" width="200">
   <img src="./img/sight/sights6.PNG" width="200">
   <img src="./img/sight/sights7.PNG" width="200">
   <img src="./img/sight/sights8.PNG" width="200">
-
+</p>
 ## الخاتمة
 تم تصميم Bee-Spotter ليكون أداة شاملة لتتبع نشاط النحل، المساهمة في العلم الجماهيري، وتوفير معلومات في الوقت الفعلي للسلامة والوعي. بفضل مزيجها من البيانات التفصيلية، والتقارير السهلة، والتفاعل المجتمعي، تعد التطبيق مصدرًا قيمًا لكل من المستخدمين العاديين وعشاق الطبيعة المتفانين.
 
@@ -241,15 +358,15 @@ Das Ziel von Bee-Spotter ist es, das Bewusstsein für Bienenaktivität zu schär
 
 ## Design
 <p>
-  <img src="./img/app_design_2.png" width="200">
-  <img src="./img/app_design_1.png" width="200">
-  <img src="./img/app_design_3.png" width="200">
+  <img src="./img/app_img/IMG_1881.png" width="200">
+  <img src="./img/app_img/IMG_1882.png" width="200">
+  <img src="./img/app_img/IMG_1888.PNG" width="200">
 </p>
 
 <p>
-  <img src="./img/app_design_4.png" width="200">
-  <img src="./img/app_design_5.png" width="200">
-  <img src="./img/app_design_6.png" width="200">
+  <img src="./img/app_img/IMG_1894.PNG" width="200">
+  <img src="./img/app_img/IMG_1892.PNG" width="200">
+  <img src="./img/app_img/IMG_1893.PNG" width="200">
 </p>
 
 ## Funktionen
@@ -263,6 +380,19 @@ Das Ziel von Bee-Spotter ist es, das Bewusstsein für Bienenaktivität zu schär
 * **Benachrichtigungen**: Benutzer erhalten Benachrichtigungen, wenn die App geöffnet ist, falls jemand mit ihren Meldungen interagiert.
 * **Benutzerprofil und Sichtungshistorie**: Anzeigen und Verwalten Ihres Profils, einschließlich früherer Bienenbeobachtungen.
 * **Sprachunterstützung**: Bee-Spotter unterstützt die folgenden Sprachen: Englisch, Arabisch und Deutsch.
+
+
+  <p>
+  <img src="./img/app_img/IMG_1895.PNG" width="200">
+  <img src="./img/app_img/IMG_1896.PNG" width="200">
+  <img src="./img/app_img/IMG_1898.PNG" width="200">
+</p>
+
+<p>
+  <img src="./img/app_img/IMG_1899.PNG" width="200">
+  <img src="./img/app_img/IMG_1900.PNG" width="200">
+  <img src="./img/app_img/IMG_1901.PNG" width="200">
+</p>
 
 ### Zusätzliche Funktionen
 * **Startbildschirm-Widgets**: Zeigt Fakten über Bienen direkt auf dem Startbildschirm an.
@@ -287,14 +417,29 @@ Das Ziel von Bee-Spotter ist es, das Bewusstsein für Bienenaktivität zu schär
 * **Profilanpassung**: Aktualisieren Sie Ihr Profilbild, die Farbe des Benutzernamens und andere Einstellungen.
 * **SOS-Profil**: Schneller Zugriff auf Notfallkontakte oder Informationen im Falle eines bienenbezogenen Vorfalls.
 * **Berichtshistorie**: Zugriff auf eine Liste aller eingereichten Berichte.
+<p>
+  <img src="./img/app_img/IMG_1902.PNG" width="200">
+  <img src="./img/app_img/IMG_1903.PNG" width="200">
+  <img src="./img/app_img/IMG_1908.PNG" width="200">
+</p>
 
-## Technische Struktur
+<p>
+  <img src="./img/app_img/IMG_1910.png" width="200">
+  <img src="./img/app_img/IMG_1911.PNG" width="200">
+  <img src="./img/app_img/IMG_1912.PNG" width="200">
+</p>
 
 
+<p>
   <img src="./img/sight/sights1.PNG" width="200">
   <img src="./img/sight/sights2.PNG" width="200">
   <img src="./img/sight/sights3.PNG" width="200">
   <img src="./img/sight/sights4.PNG" width="200">
+</p>
+
+
+## Technische Struktur
+
 
 ### Projektarchitektur
 Bee-Spotter wird unter Verwendung des MVVM (Model-View-ViewModel) Design Patterns entwickelt, das eine saubere Trennung von Logik und UI-Komponenten gewährleistet.
@@ -307,6 +452,20 @@ Bee-Spotter verwendet Firebase zur Speicherung von Berichten in Echtzeit. Berich
 * **Google Maps API**: Integriert für die Kartendarstellung und standortbasierte Bilder (StreetView).
 * **Firebase Firestore**: Verwaltet die Echtzeitspeicherung, den Abruf und das Löschen von Bienensichtungsdaten.
 
+
+
+<p>
+  <img src="./img/app_img/IMG_1913.PNG" width="200">
+  <img src="./img/app_img/IMG_1914.PNG" width="200">
+  <img src="./img/app_img/IMG_1915.PNG" width="200">
+</p>
+
+<p>
+  <img src="./img/app_img/IMG_1916.PNG" width="200">
+  <img src="./img/app_img/IMG_1917.PNG" width="200">
+  <img src="./img/app_img/IMG_1918.PNG" width="200">
+</p>
+
 ### Drittanbieter-Frameworks
 * **Firebase**: Für die Echtzeitspeicherung von Daten, Benutzerauthentifizierung und In-App-Benachrichtigungen.
 * **MapKit und Google Maps**: Für Kartendienste und Standortdienste.
@@ -318,12 +477,24 @@ Der Fahrplan von Bee-Spotter umfasst:
 * **Forschungszusammenarbeit**: Zusammenarbeit mit Umweltorganisationen und Forschern für wissenschaftliche Studien und Datenaustausch.
 
 
-## sights
+<p>
+  <img src="./img/app_img/IMG_1919.PNG" width="200">
+  <img src="./img/app_img/IMG_1922.PNG" width="200">
+  <img src="./img/app_img/IMG_1923.PNG" width="200">
+</p>
 
+<p>
+  <img src="./img/app_img/IMG_1947.PNG" width="200">
+  <img src="./img/app_img/IMG_1948.PNG" width="200">
+  <img src="./img/app_img/IMG_1964.png" width="200">
+</p>
+
+## sights
+<p>
   <img src="./img/sight/sights5.PNG" width="200">
   <img src="./img/sight/sights6.PNG" width="200">
   <img src="./img/sight/sights7.PNG" width="200">
   <img src="./img/sight/sights8.PNG" width="200">
-  
+  </p>
 ## Fazit
 Bee-Spotter ist als umfassendes Werkzeug konzipiert, um Bienenaktivität zu verfolgen, zur Bürgerwissenschaft beizutragen und Echtzeitinformationen für Sicherheit und Bewusstsein bereitzustellen. Mit seiner Kombination aus detaillierten Daten, einfacher Meldung und Community-Engagement ist die App eine wertvolle Ressource für sowohl Gelegenheitsbenutzer als auch engagierte Naturliebhaber.
