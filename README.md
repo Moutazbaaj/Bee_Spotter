@@ -1,8 +1,8 @@
-# Bee-Spotter
+# Bee Spotter
 
-**Bee-Spotter** - Bee aware, Bee safe!
+**Bee Spotter** - Bee aware, Bee safe!
 
-Bee-Spotter is an app that allows users to report and view bee sightings on a map based on their location. With real-time reporting and automatic deletion after 2 hours, users receive the most up-to-date information about bee activity around them and worldwide.
+Bee Spotter is an app that allows users to report and view bee sightings on a map based on their location. With real-time reporting and automatic deletion after 2 hours, users receive the most up-to-date information about bee activity around them and worldwide.
 
 ## Who Is It For?
 Bee-Spotter is ideal for:
